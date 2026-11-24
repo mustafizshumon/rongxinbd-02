@@ -1,6 +1,6 @@
 # RONGXIN International Trading Company Limited
 
-## V3.2 – Render fix
+## V02 – Render fix
 All website files are in this single folder. There is no assets directory.
 
 ### Run
